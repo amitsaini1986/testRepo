@@ -19,7 +19,8 @@
     
     NSLog(@"testing git second comment with repo commit log");
     NSLog(@"LocalBranch");
-    
+    NSLog(@"remote");
+
     NSLog(@"testing git first commit log");
     // Do any additional setup after loading the view, typically from a nib.
 }
